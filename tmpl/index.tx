@@ -4,16 +4,8 @@
 
 <div class="container">
 <div class="row">
-<div class="col-sm-5">
+    <h1 class="text-right">akimacho<br><small>Akimasa Kimura</small></h1>
     <img src="/static/img/akimacho.png" alt="akimacho" class="img-responsive center-block">
-</div><!-- col -->
-<div class="col-sm-7">
-    <h1 class="text-right">akimacho</h1>
-<!--
-    <div class="jumbotron">
-    </div>
--->
-</div><!-- col -->
 </div><!-- row -->
 </div><!-- container -->
 
@@ -21,10 +13,10 @@
 
 <div class="container">
 <div class="row">
-<div class="col-sm-7">
 <div class="list-group">
     <a href="https://github.com/akimacho" class="list-group-item">
         <h4 class="list-group-item-heading">Github</h4>
+        <p class="list-group-item-text">akimacho</p>
     </a>
     <a href="https://twitter.com/ki_macho" class="list-group-item">
         <h4 class="list-group-item-heading">twitter</h4>
@@ -39,10 +31,6 @@
         <p class="list-group-item-text">akimachoのはてなブログ</p>
     </a>
 </div>
-</div><!-- col -->
-<div class="col-sm-5">
-    <img src="/static/img/okukinu.jpg" alt="okukinu" class="img-responsive img-thumbnail">
-</div><!-- col -->
 </div><!-- row -->
 </div><!-- container -->
 
