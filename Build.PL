@@ -27,7 +27,7 @@ my $build = builder::MyBuilder->new(
     no_index    => { 'directory' => [ 'inc' ] },
     name        => 'Akimacho',
     module_name => 'Akimacho',
-    author        => 'Some Person <person@example.com>',
+    author        => 'AKIMACHO <kimura.akimasa@gmail.com>',
     dist_abstract => 'A web site based on Amon2',
 
     test_files => (-d '.git' || $ENV{RELEASE_TESTING}) ? 't/ xt/' : 't/',

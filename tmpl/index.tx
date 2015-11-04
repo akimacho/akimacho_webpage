@@ -30,6 +30,10 @@
         <h4 class="list-group-item-heading">Hatena Blog</h4>
         <p class="list-group-item-text">akimachoのはてなブログ</p>
     </a>
+    <a href="https://github.com/akimacho/wiki/wiki" class="list-group-item">
+        <h4 class="list-group-item-heading">Github Wiki</h4>
+        <p class="list-group-item-text">akimacho/wiki</p>
+    </a>
 </div>
 </div><!-- row -->
 </div><!-- container -->
